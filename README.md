@@ -19,7 +19,7 @@ In recent years, the issue of waste management has become increasingly important
 
 One key aspect of waste management is the proper sorting of garbage into different categories, such as paper, plastic, metal, and glass. This allows for more efficient recycling and disposal of waste, and helps to reduce the amount of waste that ends up in landfills. However, manually sorting trash can be a time-consuming and error-prone process, particularly in large facilities with a high volume of waste.
 
-In this paper, we present a project that aims to automate the process of sorting trash based on its recyclability status. The project uses a combination of computer vision and machine learning techniques to take images of individual pieces of trash and classify them into one of five categories: glass, leather, paper, plastic, and metal. The system achieves an accuracy of 88% on the test data.
+This project aims to automate the process of sorting trash based on its recyclability status. The project uses a combination of computer vision and machine learning techniques to take images of individual pieces of trash and classify them into one of five categories: glass, leather, paper, plastic, and metal. The system achieves an accuracy of 88% on the test data.
 
 The first step in the process is to extract useful features from the images of the trash using a technique called Scale-Invariant Feature Transform (SIFT). This allows the system to identify key points in the images that can be used to distinguish between the different types of trash.
 
@@ -31,7 +31,7 @@ The project demonstrates the effectiveness of using computer vision and machine 
 
 Future work in this area could include exploring other machine learning algorithms and feature extraction techniques, as well as incorporating additional data sources such as the weight and composition of the trash to improve the system's accuracy.
 
-In conclusion, the project presented in this paper shows the potential of using computer vision and machine learning to automate the process of sorting trash based on its recyclability status. The system is able to achieve a high level of accuracy, and has the potential to improve waste management and reduce the amount of garbage that ends up in landfills.
+In conclusion, the project shows the potential of using computer vision and machine learning to automate the process of sorting trash based on its recyclability status. The system is able to achieve a high level of accuracy, and has the potential to improve waste management and reduce the amount of garbage that ends up in landfills.
 
 
 
